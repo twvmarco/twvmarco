@@ -116,21 +116,19 @@ Seguir creciendo como profesional en tecnología, programación y soporte técni
   <a href="https://www.facebook.com/profile.php?id=61565036312250">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="[TU-ENLACE-DE-INSTAGRAM]">
+  <a href="https://www.instagram.com/twv.marco/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="[TU-ENLACE-DE-LINKEDIN]">
+  <a href="https://www.linkedin.com/in/marco-madrid-853608376/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[TU-ENLACE-DE-DISCORD]">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+ 
 </p>
 
 ---
 
 <p align="center">
-© 2026 Marco | Perfil Profesional
+© 2026 Marco | ZyM 
 </p>
 
 <p align="center">
