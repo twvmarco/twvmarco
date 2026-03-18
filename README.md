@@ -80,13 +80,13 @@ Un simple estudiante apasionado por la informática y el desarrollo de software.
 
 ---
 
-### 💼 LuminysTech
+###  LuminysTech
 
 centro de soluciones informáticas con enfoque en reparación, optimización y soporte técnico. instalación y configuración de sistemas operativos Windows y Linux, mantenimiento correctivo y preventivo de hardware, y despliegue de software especializado. Brindo asesoría en la elaboración de CV, apoyo académico en tareas escolares del área de informática, servicios de impresión y fotocopias, y tutorías personalizadas en herramientas digitales y fundamentos tecnológicos. Mi labor combina el conocimiento técnico con la atención directa al cliente, garantizando soluciones funcionales, didácticas y adaptadas a las necesidades de cada usuario.
 
 ---
 
-### 📊 Estadísticas de GitHub
+###  Estadísticas de GitHub
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=twvmarco&show_icons=true&theme=tokyonight&locale=es"/>
@@ -99,24 +99,32 @@ centro de soluciones informáticas con enfoque en reparación, optimización y s
 
 ---
 
-### 🐍 Actividad de contribuciones
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/twvmarco/twvmarco/output/github-contribution-grid-snake.svg"/>
-</p>
 
----
-
-### 🎯 Objetivo
+###  Objetivo
 
 Seguir creciendo como profesional en tecnología, programación y soporte técnico, creando proyectos útiles y mejorando mis habilidades día a día.
 
 ---
 
-### 🤝 Conecta conmigo
+###  Conecta conmigo
 
 <p align="center">
-<a href="https://github.com/twvmarco"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/twvmarco">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61565036312250">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="[TU-ENLACE-DE-INSTAGRAM]">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="[TU-ENLACE-DE-LINKEDIN]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="[TU-ENLACE-DE-DISCORD]">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
 
 ---
