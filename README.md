@@ -1,4 +1,4 @@
-<!-- BANNER -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=twvmarco&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
