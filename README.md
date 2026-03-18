@@ -8,7 +8,7 @@ LuminyTech | Soporte Técnico | Desarrollo Web
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Técnico+en+Computadoras;Administrador+de+Mini+Cyber;Aprendiendo+Programación;HTML+CSS+Python+MySQL&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Propietario+de+LuminysTech;Aprendiendo+Programación;HTML+CSS+Python+MySQL&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -17,13 +17,13 @@ LuminyTech | Soporte Técnico | Desarrollo Web
 
 ---
 
-### 👨‍💻 Sobre mí
+###  Sobre mí
 
-Técnico en computadoras y administrador de un mini cyber, con experiencia en mantenimiento, reparación y soporte técnico. Apasionado por la programación y el desarrollo web usando HTML, CSS y Python, con conocimientos en bases de datos MySQL y sistemas Windows y Linux. Me motiva aprender nuevas tecnologías, resolver problemas reales y crear soluciones útiles en el mundo de la informática.
+Un simple estudiante apasionado por la informática y el desarrollo de software. Me encanta aprender nuevas tecnologías, experimentar con proyectos personales y compartir mis conocimientos con la comunidad. Actualmente exploro programación, desarrollo web y herramientas de productividad. Siempre busco mejorar mis habilidades y crear soluciones prácticas y creativas.
 
 ---
 
-## 🚀 Stack Tecnológico Completo
+##  Stack Tecnológico Completo
 
 
 <p align="center">
@@ -80,13 +80,9 @@ Técnico en computadoras y administrador de un mini cyber, con experiencia en ma
 
 ---
 
-### 💼 Experiencia
+### 💼 LuminysTech
 
-**Administrador de Mini Cyber**
-- Reparación y mantenimiento de computadoras.
-- Instalación y optimización de sistemas operativos (Windows/Linux).
-- Instalación y configuración de software.
-- Atención y soporte técnico a clientes.
+centro de soluciones informáticas con enfoque en reparación, optimización y soporte técnico. instalación y configuración de sistemas operativos Windows y Linux, mantenimiento correctivo y preventivo de hardware, y despliegue de software especializado. Brindo asesoría en la elaboración de CV, apoyo académico en tareas escolares del área de informática, servicios de impresión y fotocopias, y tutorías personalizadas en herramientas digitales y fundamentos tecnológicos. Mi labor combina el conocimiento técnico con la atención directa al cliente, garantizando soluciones funcionales, didácticas y adaptadas a las necesidades de cada usuario.
 
 ---
 
