@@ -44,11 +44,11 @@ Con conocimientos en desarrollo web y programación, enfocado en crecimiento con
 <h2>📊 Estadísticas</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=twvmarco&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twvmarco&layout=compact" />
 </p>
 
 <hr>
