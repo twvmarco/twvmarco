@@ -82,7 +82,29 @@ Un simple estudiante apasionado por la informática y el desarrollo de software.
 
 ###  LuminysTech
 
-centro de soluciones informáticas con enfoque en reparación, optimización y soporte técnico. instalación y configuración de sistemas operativos Windows y Linux, mantenimiento correctivo y preventivo de hardware, y despliegue de software especializado. Brindo asesoría en la elaboración de CV, apoyo académico en tareas escolares del área de informática, servicios de impresión y fotocopias, y tutorías personalizadas en herramientas digitales y fundamentos tecnológicos. Mi labor combina el conocimiento técnico con la atención directa al cliente, garantizando soluciones funcionales, didácticas y adaptadas a las necesidades de cada usuario.
+### Centro de Soluciones Tecnológicas y Servicios Digitales
+
+Mi trabajo se enfoca en brindar soluciones tecnológicas integrales desde mi local en la colonia San Juan Bosco, Cofradía, Cortés. En mi comunidad soy el único profesional que ofrece soporte técnico especializado en equipos de cómputo, abarcando tanto mantenimiento preventivo como correctivo, así como reparación de componentes físicos y configuración de software. Atiendo tanto computadoras de escritorio como laptops, realizando diagnósticos precisos y garantizando el óptimo funcionamiento de cada equipo.
+
+### Soporte Técnico y Mantenimiento de Equipos
+
+Realizo mantenimiento preventivo para prolongar la vida útil de los equipos, así como mantenimiento correctivo que incluye cambio de piezas, reparación de componentes físicos y solución de fallas de software. Configuro sistemas operativos, instalo controladores y optimizo el rendimiento general de las computadoras, siempre con un enfoque técnico y orientado a resultados.
+
+### Servicios de Ofimática y Gestión Documental
+
+En el área de ofimática, desarrollo trabajos avanzados en Microsoft Word, Excel y PowerPoint. En Excel me especializo en la creación de bases de datos aplicadas a la gestión de cobros, control de pagos mensuales, administración de alquileres y sistemas de seguimiento de fechas de vencimiento. Diseño desde cero documentos profesionales como currículums vitae, cartas formales, croquis, informes y cualquier tipo de documento que requiera presentación impecable y estructura clara.
+
+### Asesoría Técnica y Académica
+
+Brindo asesoría técnica integral que va desde la enseñanza del uso adecuado de la computadora hasta la guía en proyectos de programación en lenguajes como Python y PseInt. También apoyo en la creación de trabajos académicos y proyectos universitarios, adaptándome a las necesidades específicas de estudiantes y profesionales.
+
+### Diseño Gráfico Comercial y Desarrollo Web
+
+En el ámbito del diseño gráfico comercial, elaboro banners, carruseles, afiches y flyers para negocios y emprendedores. Además, desarrollo páginas web personalizadas, un servicio que ofrezco como parte de mi portafolio para aquellos clientes que buscan establecer o fortalecer su presencia digital.
+
+### Público y Cobertura
+
+Mi atención está dirigida a estudiantes, particulares, profesionales y pequeños negocios que requieren soluciones tecnológicas prácticas y eficaces. Opero desde mi local en la colonia San Juan Bosco, en San Pedro Sula, brindando servicios con respuesta ágil y un enfoque personalizado que me distingue en mi zona.
 
 ---
 
